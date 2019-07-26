@@ -1,0 +1,457 @@
+store_address,city,state,latitude,longitude
+"340 Reed St, Basalt, CO 81621, USA",Basalt,Colorado,39.387006,-107.082616
+"3780 Riverchase Village, Hoover, AL 35244, USA",Hoover,Alabama,33.377403,-86.80112
+"650 Town Center Dr, Oxnard, CA 93036, USA",Oxnard,California,34.240049,-119.179144
+"340 3rd St, San Rafael, CA 94901, USA",San Rafael,California,37.971319,-122.516847
+"1010 Park Pl, San Mateo, CA 94403, USA",San Mateo,California,37.544283,-122.292175
+"7881 Edinger Ave #150, Huntington Beach, CA 92647, USA",Huntington Beach,California,33.731337,-117.991241
+"1111 S Washington St, Denver, CO 80210, USA",Denver,Colorado,39.696018,-104.979909
+"55 Welles St, Glastonbury, CT 06033, USA",Glastonbury,Connecticut,41.714972,-72.607061
+"2411 N Federal Hwy, Pompano Beach, FL 33064, USA",Pompano Beach,Florida,26.261326,-80.101292
+"2111 Briarcliff Rd NE, Atlanta, GA 30329, USA",Atlanta,Georgia,33.815781,-84.333262
+"30 W Huron St, Chicago, IL 60654, USA",Chicago,Illinois,41.89502,-87.629069
+"160 Littleton Rd, Westford, MA 01886, USA",Westford,Massachusetts,42.568264,-71.419986
+"4944 Shelbyville Rd, Louisville, KY 40207, USA",Louisville,Kentucky,38.248661,-85.626006
+"41 Miller St, Winston-Salem, NC 27104, USA",Winston-Salem,North Carolina,36.094265,-80.273694
+"193 Boston Turnpike, Shrewsbury, MA 01545, USA",Shrewsbury,Massachusetts,42.275888,-71.745705
+"12201 Elm Creek Blvd N, Maple Grove, MN 55369, USA",Maple Grove,Minnesota,45.091437,-93.435901
+"905 River Rd, Edgewater, NJ 07020, USA",Edgewater,New Jersey,40.824917,-73.97392
+"3139 Sheridan Dr, Buffalo, NY 14226, USA",Buffalo,New York,42.979114,-78.816874
+"1401 E 41st St, Tulsa, OK 74105, USA",Tulsa,Oklahoma,36.104946,-95.973272
+"4801 Colleyville Blvd, Colleyville, TX 76034, USA",Colleyville,Texas,32.879086,-97.155428
+"5880 Centre Ave, Pittsburgh, PA 15206, USA",Pittsburgh,Pennsylvania,40.45845,-79.928985
+"4004 Bellaire Blvd, Houston, TX 77025, USA",Houston,Texas,29.706877,-95.441641
+"1800 Laskin Rd, Virginia Beach, VA 23454, USA",Virginia Beach,Virginia,36.850866,-76.028072
+"2501 Memorial Pkwy SW, Huntsville, AL 35801, USA",Huntsville,Alabama,34.712283,-86.589841
+"21347 Ventura Blvd, Woodland Hills, CA 91364, USA",Los Angeles,California,34.168094,-118.596867
+"7871 Santa Monica Blvd, West Hollywood, CA 90046, USA",West Hollywood,California,34.09152,-118.360773
+"790 De Long Ave, Novato, CA 94945, USA",Novato,California,38.105674,-122.565462
+"20955 Stevens Creek Blvd, Cupertino, CA 95014, USA",Cupertino,California,37.323605,-122.039589
+"870 S Colorado Blvd, Glendale, CO 80246, USA",Glendale,Colorado,39.70062,-104.939902
+"5 Sugar Hollow Rd, Danbury, CT 06810, USA",Danbury,Connecticut,41.377767,-73.475576
+"7930 SW 104th St, Miami, FL 33156, USA",Miami,Florida,25.673125,-80.323453
+"5945 State Bridge Rd, Duluth, GA 30097, USA",Duluth,Georgia,34.014308,-84.184846
+"7245 Lake St, River Forest, IL 60305, USA",River Forest,Illinois,41.887377,-87.806264
+"880 Main St, Melrose, MA 02176, USA",Melrose,Massachusetts,42.464962,-71.062598
+"4059, 4059 Finn Way, Lexington, KY 40517, USA",Lexington,Kentucky,37.977633,-84.528672
+"102 New Waverly Pl, Cary, NC 27518, USA",Cary,North Carolina,35.737459,-78.777314
+"300 Legacy Pl, Dedham, MA 02026, USA",Dedham,Massachusetts,42.233035,-71.177959
+"1575 Selby Ave, St Paul, MN 55104, USA",Saint Paul,Minnesota,44.946911,-93.166079
+"2245 Springfield Ave, Vauxhall, NJ 07088, USA",Union,New Jersey,40.716954,-74.286673
+"1 Ridge Hill Boulevard, Yonkers, NY 10710, USA",Yonkers,New York,40.962711,-73.855568
+"11 S State St, Lake Oswego, OR 97034, USA",Lake Oswego,Oregon,45.415784,-122.662006
+"11041 Westheimer Rd, Houston, TX 77042, USA",Houston,Texas,29.734897,-95.570629
+"175 Pottstown Pike, Exton, PA 19341, USA",Exton,Pennsylvania,40.031442,-75.628418
+"8190 Park Ln #351, Dallas, TX 75231, USA",Dallas,Texas,32.871642,-96.765722
+"2700 Wilson Blvd, Arlington, VA 22201, USA",Arlington,Virginia,38.889111,-77.091022
+"3968 Airport Blvd, Mobile, AL 36608, USA",Mobile,Alabama,30.677189,-88.151046
+"3682 Bel Aire Plaza, Napa, CA 94558, USA",Napa,California,38.32344,-122.306267
+"465 S Arroyo Pkwy, Pasadena, CA 91105, USA",Pasadena,California,34.137826,-118.14782
+"788 S Grand Ave, Los Angeles, CA 90017, USA",Los Angeles,California,34.046056,-118.257744
+"270 Palladio Pkwy, Folsom, CA 95630, USA",Folsom,California,38.648858,-121.118066
+"5155 S Wadsworth Blvd, Littleton, CO 80123, USA",Littleton,Colorado,39.62318,-105.092247
+"1686 Boston Post Rd, Milford, CT 06460, USA",Milford,Connecticut,41.248559,-73.024665
+"9101 Strada Pl, Naples, FL 34108, USA",Naples,Florida,26.25459,-81.79995
+"1311 Johnson Ferry Rd, Marietta, GA 30068, USA",Marietta,Georgia,33.980476,-84.427947
+"Centennial Hall, 959 W Fullerton Ave, Chicago, IL 60614, USA",Chicago,Illinois,41.925081,-87.653219
+"100 Market St, Lynnfield, MA 01940, USA",Lynnfield,Massachusetts,42.51512,-71.029763
+"3450 US-190, Mandeville, LA 70471, USA",Mandeville,Louisiana,30.392367,-90.084622
+"621 Broad St, Durham, NC 27705, USA",Durham,North Carolina,36.007098,-78.920701
+"916 Walnut St, Newton, MA 02461, USA",Newton,Massachusetts,42.330012,-71.206377
+"3060 Excelsior Blvd, Minneapolis, MN 55416, USA",Minneapolis,Minnesota,44.94772,-93.322185
+"44 Godwin Ave, Ridgewood, NJ 07450, USA",Ridgewood,New Jersey,40.978428,-74.122508
+"808 Columbus Ave, New York, NY 10018, USA",New York,New York,40.795401,-73.965888
+"2825 E Burnside St, Portland, OR 97214, USA",Portland,Oregon,45.52326,-122.636734
+"6601 S Fry Rd, Katy, TX 77494, USA",Katy,Texas,29.712479,-95.771465
+"15 Wynnewood Rd, Wynnewood, PA 19096, USA",Wynnewood,Pennsylvania,40.002118,-75.275517
+"5100 Belt Line Rd #1012, Dallas, TX 75254, USA",Dallas,Texas,32.951639,-96.820619
+"8402 Old Keene Mill Rd, West Springfield, VA 22152, USA",West Springfield,Virginia,38.779635,-77.234325
+"3100 Cahaba Village Plaza, Birmingham, AL 35243, USA",Birmingham,Alabama,33.46006,-86.75264
+"4315 Arden Way, Sacramento, CA 95864, USA",Sacramento,California,38.596472,-121.364055
+"1181 Yulupa Ave, Santa Rosa, CA 95405, USA",Santa Rosa,California,38.442386,-122.674661
+"19340 Rinaldi St, Northridge, CA 91326, USA",Los Angeles,California,34.273457,-118.554959
+"11666 National Blvd, Los Angeles, CA 90064, USA",Los Angeles,California,34.022847,-118.438364
+"2905 Pearl St, Boulder, CO 80301, USA",Boulder,Colorado,40.024058,-105.256089
+"399 Post Rd W, Westport, CT 06880, USA",Westport,Connecticut,41.12805,-73.380187
+"27001 US Hwy 19 N, Clearwater, FL 33761, USA",Clearwater,Florida,28.017329,-82.733613
+"4211 Waialae Ave, Honolulu, HI 96816, USA",Honolulu,Hawaii,21.277295,-157.786529
+"255 E Grand Ave, Chicago, IL 60611, USA",Chicago,Illinois,41.891383,-87.6212
+"35 Pleasant St, South Weymouth, MA 02190, USA",Weymouth,Massachusetts,42.171622,-70.953042
+"1380 E 70th St, Shreveport, LA 71105, USA",Shreveport,Louisiana,32.444316,-93.726872
+"3804 Oleander Dr, Wilmington, NC 28403, USA",Wilmington,North Carolina,34.213687,-77.9008
+"160 Littleton Rd, Westford, MA 01886, USA",Westford,Massachusetts,42.568264,-71.419986
+"4500 North Ln #99, Jackson, MS 39209, USA",Jackson,Mississippi,32.330471,-90.264781
+"220-228 Main St, Madison, NJ 07940, USA",Madison,New Jersey,40.753582,-74.405479
+"110 Bloomingdale Rd, White Plains, NY 10605, USA",White Plains,New York,41.028521,-73.758753
+"4301 NE Sandy Blvd, Portland, OR 97213, USA",Portland,Oregon,45.536858,-122.618724
+"10133 Louetta Rd, Houston, TX 77070, USA",Houston,Texas,29.998516,-95.562061
+"261 Waterman St, Providence, RI 02906, USA",Providence,Rhode Island,41.827761,-71.386301
+"801 E Lamar Blvd, Arlington, TX 76011, USA",Arlington,Texas,32.766905,-97.099057
+"2210 Westlake Ave, Seattle, WA 98121, USA",Seattle,Washington,47.618343,-122.338086
+"1450 Taylor Rd, Montgomery, AL 36117, USA",Montgomery,Alabama,32.35863,-86.17294
+"2085 Diamond Blvd, Concord, CA 94520, USA",Concord,California,37.974068,-122.058173
+"3301 Imperial Hwy, Brea, CA 92823, USA",Brea,California,33.909659,-117.852098
+"777 The Alameda, San Jose, CA 95126, USA",San Jose,California,37.332174,-121.904814
+"1250 Jefferson Ave, Redwood City, CA 94062, USA",Redwood City,California,37.482299,-122.231675
+"444 S Wadsworth Blvd, Lakewood, CO 80226, USA",Lakewood,Colorado,39.708709,-105.080596
+"1440 P St NW, Washington, DC 20005, USA",Washington,District of Columbia,38.909355,-77.033433
+"3802 Northdale Blvd, Tampa, FL 33624, USA",Tampa,Florida,28.092987,-82.504132
+"629 Kailua Rd #100, Kailua, HI 96734, USA",Kailua,Hawaii,21.393852,-157.742967
+"89 Danada Square W, Wheaton, IL 60189, USA",Wheaton,Illinois,41.83037,-88.101502
+"45 Beacon St, Somerville, MA 02143, USA",Somerville,Massachusetts,42.376014,-71.102909
+"300 N Broad St, New Orleans, LA 70119, USA",New Orleans,Louisiana,29.967077,-90.084481
+"9129 Sam Furr Rd, Huntersville, NC 28078, USA",Huntersville,North Carolina,35.444095,-80.871871
+"327 Russell St, Hadley, MA 01035, USA",Hadley,Massachusetts,42.353146,-72.55462
+"4577 W Pine Blvd, St. Louis, MO 63108, USA",St. Louis,Missouri,38.641985,-90.261125
+"1558 Kings Hwy N, Cherry Hill, NJ 08034, USA",Cherry Hill,New Jersey,39.915882,-75.011425
+"250 7th Ave, New York, NY 10001, USA",New York,New York,40.745078,-73.995357
+"353 E Broadway, Eugene, OR 97401, USA",Eugene,Oregon,44.050368,-123.087755
+"4100 Lomo Alto Dr, Dallas, TX 75219, USA",Dallas,Texas,32.82046,-96.814403
+"601 N Main St, Providence, RI 02904, USA",Providence,Rhode Island,41.837282,-71.408283
+"701 Waugh Dr, Houston, TX 77019, USA",Houston,Texas,29.757859,-95.397599
+"3515 Bridgeport Way W, University Place, WA 98466, USA",University Place,Washington,47.22724,-122.535977
+"7133 N Oracle Rd, Tucson, AZ 85704, USA",Tucson,Arizona,32.336488,-110.978325
+"2121 Cloverfield Blvd, Santa Monica, CA 90404, USA",Santa Monica,California,34.0221,-118.465442
+"2600 Via De La Valle #100, Del Mar, CA 92014, USA",Del Mar,California,32.981301,-117.251973
+"7881 Edinger Ave #150, Huntington Beach, CA 92647, USA",Huntington Beach,California,33.731337,-117.991241
+"690 Stanyan St, San Francisco, CA 94117, USA",San Francisco,California,37.769561,-122.452798
+"D, 7400 E Hampden Ave, Denver, CO 80231, USA",Denver,Colorado,39.651656,-104.901413
+"2201 I St NW, Washington, DC 20037, USA",Washington,District of Columbia,38.901078,-77.049082
+"2635 SR 7, Wellington, FL 33414, USA",Wellington,Florida,26.641416,-80.206204
+"70 E Kaahumanu Ave B, Kahului, HI 96732, USA",Kahului,Hawaii,20.891466,-156.464444
+"6020 N Cicero Ave, Chicago, IL 60646, USA",Chicago,Illinois,41.990353,-87.748951
+"990 Iyannough Rd, Hyannis, MA 02601, USA",Barnstable,Massachusetts,41.672421,-70.301803
+"4247 Ambassador Caffery Pkwy, Lafayette, LA 70508, USA",Lafayette,Louisiana,30.161016,-92.051689
+"4 S Tunnel Rd, Asheville, NC 28805, USA",Asheville,North Carolina,35.582852,-82.525048
+"808 Massachusetts Ave, Arlington, MA 02476, USA",Arlington,Massachusetts,42.416312,-71.159469
+"1160 Town and Country Crossing Dr, Town and Country, MO 63017, USA",Town and Country,Missouri,38.622174,-90.515479
+"3495 Us Route 1 S, Princeton, NJ 08540, United States",Princeton,New Jersey,40.307916,-74.667855
+"1095 Avenue of the Americas, New York, NY 10036, USA",New York,New York,40.754677,-73.984931
+"3535 NE 15th Ave, Portland, OR 97212, USA",Portland,Oregon,45.548821,-122.651161
+"100 Pitt St, El Paso, TX 79912, USA",El Paso,Texas,31.83408,-106.548005
+"151 Sockanosset Cross Rd, Cranston, RI 02920, USA",Cranston,Rhode Island,41.755914,-71.45605
+"9607 Research Blvd, Austin, TX 78759, USA",Austin,Texas,30.389992,-97.739952
+"815 SE 160th Ave, Vancouver, WA 98683, USA",Vancouver,Washington,45.614694,-122.505816
+"5120 S Rural Rd, Tempe, AZ 85282, USA",Tempe,Arizona,33.379584,-111.929789
+"3950 24th St, San Francisco, CA 94114, USA",San Francisco,California,37.751958,-122.430885
+"740 N Moorpark Rd, Thousand Oaks, CA 91360, USA",Thousand Oaks,California,34.187803,-118.87335
+"225 Lincoln Blvd, Venice, CA 90291, USA",,California,34.00109,-118.469837
+"465 S Arroyo Pkwy, Pasadena, CA 91105, USA",Pasadena,California,34.137826,-118.14782
+"7635 Academy Blvd N, Colorado Springs, CO 80920, USA",Colorado Springs,Colorado,38.942129,-104.797401
+"600 H St NE, Washington, DC 20002, USA",Washington,District of Columbia,38.900511,-76.99753
+"5298 University Pkwy, at Whole Foods, Sarasota, FL 34243, United States",Sarasota,Florida,27.389291,-82.463733
+"401 S Broadway Ave, Boise, ID 83702, USA",Boise,Idaho,43.607863,-116.194638
+"1 N Halsted St, Chicago, IL 60661, USA",Chicago,Illinois,41.882382,-87.646886
+"327 Russell St, Hadley, MA 01035, USA",Hadley,Massachusetts,42.353146,-72.55462
+"7529 Corporate Blvd, Baton Rouge, LA 70809, USA",Baton Rouge,Louisiana,30.432353,-91.111206
+"3202 W Friendly Ave, Greensboro, NC 27408, USA",Greensboro,North Carolina,36.085865,-79.834254
+"100 Market St, Lynnfield, MA 01940, USA",Lynnfield,Massachusetts,42.51512,-71.029763
+"1601 S Brentwood Blvd, Brentwood, MO 63144, USA",Brentwood,Missouri,38.627683,-90.347602
+"1255 Raritan Rd #150, Clark, NJ 07066, USA",Clark,New Jersey,40.631768,-74.305086
+"95 E Houston St, New York, NY 10002, USA",New York,New York,40.723767,-73.992203
+"1210 NW Couch St, Portland, OR 97209, USA",Portland,Oregon,45.52331,-122.683653
+"1700 Post Oak Blvd, Houston, TX 77056, USA",Houston,Texas,29.749304,-95.462209
+"50 Shelter Cove Ln, Hilton Head Island, SC 29928, USA",Hilton Head Island,South Carolina,32.186446,-80.717952
+"15900 Southwest Fwy, Sugar Land, TX 77478, USA",Sugar Land,Texas,29.600187,-95.623404
+"888 116th Ave NE, Bellevue, WA 98004, USA",Bellevue,Washington,47.618221,-122.184533
+"7111 E Mayo Blvd, Phoenix, AZ 85054, USA",Phoenix,Arizona,33.65373,-111.927917
+"201 W Napa St, Sonoma, CA 95476, USA",Sonoma,California,38.291249,-122.462618
+"21347 Ventura Blvd, Woodland Hills, CA 91364, USA",Los Angeles,California,34.168094,-118.596867
+"15980 Los Gatos Blvd, Los Gatos, CA 95032, USA",Los Gatos,California,37.236096,-121.961498
+"6350 W 3rd St, Los Angeles, CA 90036, USA",Los Angeles,California,34.070195,-118.36077
+"4530 40th St NW, Washington, DC 20016, USA",Washington,District of Columbia,38.948521,-77.079181
+"1030 N Orlando Ave, Winter Park, FL 32789, USA",Winter Park,Florida,28.606472,-81.364604
+"6020 N Cicero Ave, Chicago, IL 60646, USA",Chicago,Illinois,41.990353,-87.748951
+"3201 N Ashland Ave, Chicago, IL 60657, USA",Chicago,Illinois,41.94009,-87.668253
+"181 Cambridge St, Boston, MA 02114, USA",Boston,Massachusetts,42.36205,-71.065359
+"3420 Veterans Memorial Blvd, Metairie, LA 70002, USA",Metairie,Louisiana,30.001869,-90.158923
+"5055 Arco Street, Cary, NC 27519, USA",Cary,North Carolina,35.833198,-78.882037
+"181 Cambridge St, Boston, MA 02114, USA",Boston,Massachusetts,42.36205,-71.065359
+"6055 O St, Lincoln, NE 68510, USA",Lincoln,Nebraska,40.812997,-96.639076
+"645 Middlesex Ave, Metuchen, NJ 08840, USA",Metuchen,New Jersey,40.540292,-74.366382
+"214 3rd St, Brooklyn, NY 11215, USA",,New York,40.674915,-73.988819
+"19440 NW Cornell Rd, Hillsboro, OR 97124, USA",Hillsboro,Oregon,45.53374,-122.876973
+"6598 N Landmark Dr, Park City, UT 84098, USA",Park City,Utah,40.727744,-111.548128
+"923 Houston Northcutt Blvd, Mt Pleasant, SC 29464, USA",Mount Pleasant,South Carolina,32.802349,-79.888996
+"18403 Blanco Rd, San Antonio, TX 78258, USA",San Antonio,Texas,29.613701,-98.511219
+"2001 15th Ave W, Seattle, WA 98119, USA",Seattle,Washington,47.637197,-122.376982
+"5555 E River Rd, Tucson, AZ 85750, USA",Tucson,Arizona,32.274974,-110.874356
+"225 Lincoln Blvd, Venice, CA 90291, USA",,California,34.00109,-118.469837
+"2941 Ygnacio Valley Rd, Walnut Creek, CA 94598, USA",Walnut Creek,California,37.925659,-122.016946
+"23932 Aliso Creek Rd, Laguna Niguel, CA 92677, USA",Laguna Niguel,California,33.554368,-117.71258
+"7871 Santa Monica Blvd, West Hollywood, CA 90046, USA",West Hollywood,California,34.09152,-118.360773
+"1701 Wewatta St, Denver, CO 80202, USA",Denver,Colorado,39.754999,-105.001198
+"7930 SW 104th St, Miami, FL 33156, USA",Miami,Florida,25.673125,-80.323453
+"1400 Glades Rd, Boca Raton, FL 33431, USA",Boca Raton,Florida,26.3658,-80.113715
+"3201 N Ashland Ave, Chicago, IL 60657, USA",Chicago,Illinois,41.94009,-87.668253
+"215 IL-83, Elmhurst, IL 60126, USA",Elmhurst,Illinois,41.893841,-87.960394
+"15 Washington St, Brighton, MA 02135, USA",Boston,Massachusetts,42.3428,-71.140375
+"5600 Magazine St, New Orleans, LA 70115, USA",New Orleans,Louisiana,29.920762,-90.117661
+"6610 Fairview Rd, Charlotte, NC 28210, USA",Charlotte,North Carolina,35.14723,-80.830095
+"15 Washington St, Brighton, MA 02135, USA",Boston,Massachusetts,42.3428,-71.140375
+"10020 Regency Cir, Omaha, NE 68114, USA",Omaha,Nebraska,41.262011,-96.068528
+"633 Broad St, Newark, NJ 07102, USA",Newark,New Jersey,40.740008,-74.169992
+"1425 Central Ave, Albany, NY 12205, USA",Albany,New York,42.710142,-73.816418
+"2610 NE Hwy 20, Bend, OR 97701, USA",Bend,Oregon,44.056318,-121.26592
+"544 700 E, Salt Lake City, UT 84102, USA",Salt Lake City,Utah,40.757846,-111.87185
+"4305 Fort Jackson Blvd, Columbia, SC 29205, USA",Columbia,South Carolina,33.992666,-80.975398
+"2955 Kirby Dr, Houston, TX 77098, USA",Houston,Texas,29.739406,-95.418256
+"1026 NE 64th St, Seattle, WA 98115, USA",Seattle,Washington,47.675344,-122.316154
+"4701 N 20th St, Phoenix, AZ 85016, USA",Phoenix,Arizona,33.506231,-112.037895
+"15980 Los Gatos Blvd, Los Gatos, CA 95032, USA",Los Gatos,California,37.236096,-121.961498
+"1333 Newell Ave, Walnut Creek, CA 94596, USA",Walnut Creek,California,37.892688,-122.055311
+"239 N Crescent Dr, Beverly Hills, CA 90210, USA",Beverly Hills,California,34.069185,-118.398098
+"650 Town Center Dr, Oxnard, CA 93036, USA",Oxnard,California,34.240049,-119.179144
+"1250 S Hover Rd, Longmont, CO 80501, USA",Longmont,Colorado,40.146633,-105.128558
+"2411 N Federal Hwy, Pompano Beach, FL 33064, USA",Pompano Beach,Florida,26.261326,-80.101292
+"305 E Altamonte Dr, Altamonte Springs, FL 32701, USA",Altamonte Springs,Florida,28.664371,-81.381556
+"7245 Lake St, River Forest, IL 60305, USA",River Forest,Illinois,41.887377,-87.806264
+"750 N Martingale Rd, Schaumburg, IL 60173, USA",Schaumburg,Illinois,42.042446,-88.03674
+"200 Alewife Brook Pkwy, Cambridge, MA 02138, USA",Cambridge,Massachusetts,42.389116,-71.141382
+"2 Somerset St, Portland, ME 04101, USA",Portland,Maine,43.663467,-70.258461
+"19607 Detroit Rd, Rocky River, OH 44116, USA",Rocky River,Ohio,41.478747,-81.83964
+"45 Beacon St, Somerville, MA 02143, USA",Somerville,Massachusetts,42.376014,-71.102909
+"6689 S Las Vegas Blvd, Las Vegas, NV 89119, USA",Las Vegas,Nevada,36.067608,-115.17442
+"300 Bergen Town Center, Paramus, NJ 07652, USA",Paramus,New Jersey,40.914632,-74.059067
+"292 Ashland Pl, Brooklyn, NY 11217, USA",,New York,40.686512,-73.978259
+"12220 SW Scholls Ferry Rd, Tigard, OR 97223, USA",Tigard,Oregon,45.442458,-122.802794
+"1131 Wilmington Ave, Salt Lake City, UT 84106, USA",Salt Lake City,Utah,40.723638,-111.858944
+"1140 Woodruff Rd, Greenville, SC 29607, USA",Greenville,South Carolina,34.825812,-82.301003
+"2201 Preston Rd, Plano, TX 75093, USA",Plano,Texas,33.029817,-96.796971
+"17991 Redmond Way, Redmond, WA 98052, USA",Redmond,Washington,47.666112,-122.101229
+"2955 W Ray Rd, Chandler, AZ 85224, USA",Chandler,Arizona,33.31844,-111.892792
+"7871 Santa Monica Blvd, West Hollywood, CA 90046, USA",West Hollywood,California,34.09152,-118.360773
+"4315 Arden Way, Sacramento, CA 95864, USA",Sacramento,California,38.596472,-121.364055
+"12746 W Jefferson Blvd #1100, Playa Vista, CA 90094, USA",Los Angeles,California,33.977037,-118.417306
+"8525 Irvine Center Dr, Irvine, CA 92618, USA",Irvine,California,33.646313,-117.744371
+"2375 E 1st Ave, Denver, CO 80206, USA",Denver,Colorado,39.718657,-104.957305
+"305 E Altamonte Dr, Altamonte Springs, FL 32701, USA",Altamonte Springs,Florida,28.664371,-81.381556
+"1903 S University Dr, Davie, FL 33324, USA",Davie,Florida,26.096528,-80.251898
+"Centennial Hall, 959 W Fullerton Ave, Chicago, IL 60614, USA",Chicago,Illinois,41.925081,-87.653219
+"1550 N Kingsbury St, Chicago, IL 60642, USA",Chicago,Illinois,41.908743,-87.652743
+"92-98 Derby St, Hingham, MA 02043, USA",Hingham,Massachusetts,42.177563,-70.909558
+"10275 Little Patuxent Pkwy, Columbia, MD 21044, USA",Columbia,Maryland,39.213959,-76.855856
+"1745 W Market St, Akron, OH 44313, USA",Akron,Ohio,41.110943,-81.571241
+"3135 Washtenaw Ave, Ann Arbor, MI 48104, USA",Ann Arbor,Michigan,42.257996,-83.698223
+"6139 S Virginia St, Reno, NV 89502, USA",Reno,Nevada,39.470616,-119.788144
+"235 Prospect Ave, West Orange, NJ 07052, USA",West Orange,New Jersey,40.806763,-74.24687
+"120 New Moriches Rd, Lake Grove, NY 11755, USA",Lake Grove,New York,40.870002,-73.126686
+"7380 SW Bridgeport Rd, Portland, OR 97224, USA",Portland,Oregon,45.39441,-122.751549
+"6930 S Highland Dr, Cottonwood Heights, UT 84121, USA",Cottonwood Heights,Utah,40.625044,-111.835922
+"301 Manufacturers Rd, Chattanooga, TN 37405, USA",Chattanooga,Tennessee,35.063362,-85.314107
+"3720 Vision Drive, Fort Worth, TX 76109, USA",Fort Worth,Texas,32.700058,-97.413211
+"2800 196th St SW, Lynnwood, WA 98036, USA",Lynnwood,Washington,47.819939,-122.272304
+"320 Cambridge Ln, Flagstaff, AZ 86001, USA",Flagstaff,Arizona,35.191586,-111.641147
+"777 The Alameda, San Jose, CA 95126, USA",San Jose,California,37.332174,-121.904814
+"399 4th St, San Francisco, CA 94107, USA",San Francisco,California,37.781303,-122.399853
+"6550 E Pacific Coast Hwy, Long Beach, CA 90803, USA",Long Beach,California,33.754725,-118.109399
+"100 Sunset Dr, San Ramon, CA 94583, USA",San Ramon,California,37.761746,-121.961247
+"261 Lusher Ct, Frisco, CO 80443, USA",Frisco,Colorado,39.588746,-106.10035
+"5298 University Pkwy, at Whole Foods, Sarasota, FL 34243, United States",Sarasota,Florida,27.389291,-82.463733
+"1845 Palm Beach Lakes Blvd, West Palm Beach, FL 33401, USA",West Palm Beach,Florida,26.720744,-80.089287
+"255 E Grand Ave, Chicago, IL 60611, USA",Chicago,Illinois,41.891383,-87.6212
+"6009 North Broadway, Chicago, IL 60660, USA",Chicago,Illinois,41.991118,-87.659683
+"647 Washington St, Newton, MA 02458, USA",Newton,Massachusetts,42.353519,-71.199998
+"1330 Smith Ave, Baltimore, MD 21209, USA",Baltimore,Maryland,39.368367,-76.649833
+"1555 W Lane Ave, Upper Arlington, OH 43221, USA",Upper Arlington,Ohio,40.006602,-83.052584
+"2918 Walton Blvd, Rochester Hills, MI 48309, USA",Rochester Hills,Michigan,42.682202,-83.19171
+"100 S Green Valley Pkwy, Henderson, NV 89012, USA",Henderson,Nevada,36.02334,-115.082427
+"1933 NJ-35, Wall Township, NJ 07719, USA",Wall Township,New Jersey,40.154948,-74.056064
+"4 Union Square E, New York, NY 10003, USA",New York,New York,40.734582,-73.991347
+"175 Pottstown Pike, Exton, PA 19341, USA",Exton,Pennsylvania,40.031442,-75.628418
+"1797 Hydraulic Rd, Charlottesville, VA 22901, USA",Charlottesville,Virginia,38.059653,-78.489127
+"4021 Hillsboro Pike, Nashville, TN 37215, USA",Nashville,Tennessee,36.103158,-86.818782
+"1407 S Voss Rd, Houston, NC 77057, USA",Houston,North Carolina,29.753801,-95.500047
+"1030 Lakeway Dr, Bellingham, WA 98229, USA",Bellingham,Washington,48.743594,-122.461295
+"1420 AZ-89A, Sedona, AZ 86336, USA",Sedona,Arizona,34.863534,-111.785141
+"1710 41st Ave, Capitola, CA 95010, USA",Capitola,California,36.974283,-121.963572
+"711 University Ave, San Diego, CA 92103, USA",San Diego,California,32.747951,-117.15805
+"24130 Valencia Blvd, Santa Clarita, CA 91355, USA",Santa Clarita,California,34.412636,-118.55588
+"4315 Arden Way, Sacramento, CA 95864, USA",Sacramento,California,38.596472,-121.364055
+"4451 Main St, Westminster, CO 80031, USA",Westminster,Colorado,39.913363,-105.044629
+"9101 Strada Pl, Naples, FL 34108, USA",Naples,Florida,26.25459,-81.79995
+"299 SE 3rd Ave, Miami, FL 33132, USA",Miami,Florida,25.771973,-80.189072
+"1550 N Kingsbury St, Chicago, IL 60642, USA",Chicago,Illinois,41.908743,-87.652743
+"4230 Grape Rd, Mishawaka, IN 46545, USA",Mishawaka,Indiana,41.699032,-86.185634
+"40 Railroad St, Andover, MA 01810, USA",Andover,Massachusetts,42.660883,-71.14463
+"200 Harker Pl, Annapolis, MD 21401, USA",Annapolis,Maryland,38.98175,-76.540736
+"3670 W Dublin Granville Rd, Columbus, OH 43235, USA",Columbus,Ohio,40.098346,-83.086995
+"115 Mack Ave, Detroit, MI 48201, USA",Detroit,Michigan,42.348536,-83.056572
+"8855 W Charleston Blvd, Las Vegas, NV 89117, USA",Las Vegas,Nevada,36.157697,-115.288291
+"471 NJ-35, Red Bank, NJ 07701, USA",Red Bank,New Jersey,40.375162,-74.087404
+"2101 Northern Blvd, Manhasset, NY 11030, USA",Manhasset,New York,40.797421,-73.670705
+"929 South St, Philadelphia, PA 19147, USA",Philadelphia,Pennsylvania,39.942914,-75.157784
+"4501 Market Commons Dr, Fairfax, VA 22033, USA",Fairfax,Virginia,38.857798,-77.377736
+"6730 Papermill Dr NW, Knoxville, TN 37919, USA",Knoxville,Tennessee,35.933147,-84.01547
+"525 N Lamar Blvd, Austin, TX 78703, USA",Austin,Texas,30.270607,-97.753259
+"2305 N Prospect Ave, Milwaukee, WI 53211, USA",Milwaukee,Wisconsin,43.060829,-87.883937
+"3360 E Speedway Blvd, Tucson, AZ 85716, USA",Tucson,Arizona,32.235741,-110.921546
+"399 4th St, San Francisco, CA 94107, USA",San Francisco,California,37.781303,-122.399853
+"1690 S Bascom Ave, Campbell, CA 95008, USA",Campbell,California,37.29322,-121.930379
+"230 Bay Pl, Oakland, CA 94612, USA",Oakland,California,37.81276,-122.260988
+"23932 Aliso Creek Rd, Laguna Niguel, CA 92677, USA",Laguna Niguel,California,33.554368,-117.71258
+"9366 S Colorado Blvd, Highlands Ranch, CO 80126, USA",Highlands Ranch,Colorado,39.545105,-104.942136
+"6701 Red Rd, Coral Gables, FL 33143, USA",Coral Gables,Florida,25.706429,-80.284774
+"6701 Red Rd, Coral Gables, FL 33143, USA",Coral Gables,Florida,25.706429,-80.284774
+"6009 North Broadway, Chicago, IL 60660, USA",Chicago,Illinois,41.991118,-87.659683
+"1300 E 86th St, Indianapolis, IN 46240, USA",Indianapolis,Indiana,39.91455,-86.138965
+"575 Worcester Rd, Framingham, MA 01701, USA",Framingham,Massachusetts,42.298547,-71.421003
+"4420 Willard Ave, Chevy Chase, MD 20815, USA",Chevy Chase,Maryland,38.961776,-77.086922
+"27249 Chagrin Blvd, Woodmere, OH 44122, USA",Woodmere,Ohio,41.46335,-81.486297
+"7350 Orchard Lake Rd, West Bloomfield Township, MI 48322, USA",West Bloomfield Township,Michigan,42.529516,-83.363014
+"7250 W Lake Mead Blvd, Las Vegas, NV 89128, USA",Las Vegas,Nevada,36.197486,-115.250181
+"753 Cerrillos Rd, Santa Fe, NM 87505, USA",Santa Fe,New Mexico,35.679048,-105.950092
+"429 N Broadway, Jericho, NY 11753, USA",Jericho,New York,40.789125,-73.534478
+"475 Wilmington Pike, Glen Mills, PA 19342, USA",Glen Mills,Pennsylvania,39.865947,-75.544257
+"520 12th St S #100, Arlington, VA 22202, USA",Arlington,Virginia,38.862735,-77.055096
+"1566 W McEwen Dr, Franklin, TN 37067, USA",Franklin,Tennessee,35.934204,-86.824949
+"1925 Hughes Landing Blvd, The Woodlands, TX 77380, USA",The Woodlands,Texas,30.169553,-95.470706
+"3313 University Ave, Madison, WI 53705, USA",Madison,Wisconsin,43.074796,-89.444105
+"10810 N Tatum Blvd, Phoenix, AZ 85028, USA",Phoenix,Arizona,33.584533,-111.979056
+"788 S Grand Ave, Los Angeles, CA 90017, USA",Los Angeles,California,34.046056,-118.257744
+"650 Town Center Dr, Oxnard, CA 93036, USA",Oxnard,California,34.240049,-119.179144
+"3950 24th St, San Francisco, CA 94114, USA",San Francisco,California,37.751958,-122.430885
+"340 3rd St, San Rafael, CA 94901, USA",San Rafael,California,37.971319,-122.516847
+"14357 W Colfax Ave, Golden, CO 80401, USA",Golden,Colorado,39.736472,-105.161382
+"2635 SR 7, Wellington, FL 33414, USA",Wellington,Florida,26.641416,-80.206204
+"5930 Roswell Rd, Atlanta, GA 30328, USA",Atlanta,Georgia,33.917752,-84.379853
+"5118 S Lake Park Ave, Chicago, IL 60615, USA",Chicago,Illinois,41.801994,-87.588459
+"199 US-41, Schererville, IN 46375, USA",Schererville,Indiana,41.519184,-87.470531
+"300 Legacy Pl, Dedham, MA 02026, USA",Dedham,Massachusetts,42.233035,-71.177959
+"316 Kentlands Blvd, Gaithersburg, MD 20878, USA",Gaithersburg,Maryland,39.122716,-77.237817
+"13998 Cedar Rd, University Heights, OH 44118, USA",University Heights,Ohio,41.500784,-81.536921
+"2100 E Maple Rd, Birmingham, MI 48009, USA",Birmingham,Michigan,42.546619,-83.19432
+"121 S River Rd, Bedford, NH 03110, USA",Bedford,New Hampshire,42.954789,-71.476332
+"5815 Wyoming Blvd NE, Albuquerque, NM 87109, USA",Albuquerque,New Mexico,35.146437,-106.555964
+"226 E 57th St, New York, NY 10022, USA",New York,New York,40.759495,-73.966144
+"1210 Bethlehem Pike, North Wales, PA 19454, USA",North Wales,Pennsylvania,40.208471,-75.225949
+"1700 Duke St, Alexandria, VA 22314, USA",Alexandria,Virginia,38.804142,-77.060062
+"7825 US-72, Germantown, TN 38138, USA",Germantown,Tennessee,35.089479,-89.802156
+"2510 McKinney Ave, Dallas, TX 75201, USA",Dallas,Texas,32.795861,-96.801624
+"11100 W Burleigh St, Wauwatosa, WI 53222, USA",Wauwatosa,Wisconsin,43.077922,-88.054721
+"3425 N College Ave, Fayetteville, AR 72703, USA",Fayetteville,Arkansas,36.113545,-94.146408
+"790 De Long Ave, Novato, CA 94945, USA",Novato,California,38.105674,-122.565462
+"100 Sunset Dr, San Ramon, CA 94583, USA",San Ramon,California,37.761746,-121.961247
+"2001 Market St, San Francisco, CA 94114, USA",San Francisco,California,37.768353,-122.42714
+"21347 Ventura Blvd, Woodland Hills, CA 91364, USA",Los Angeles,California,34.168094,-118.596867
+"6853 S York St, Centennial, CO 80122, USA",Centennial,Colorado,39.592083,-104.962192
+"1845 Palm Beach Lakes Blvd, West Palm Beach, FL 33401, USA",West Palm Beach,Florida,26.720744,-80.089287
+"1815 E Victory Dr, Savannah, GA 31404, USA",Savannah,Georgia,32.043339,-81.071927
+"2748 Green Bay Rd, Evanston, IL 60201, USA",Evanston,Illinois,42.067887,-87.702263
+"14598 Clay Terrace Blvd, Carmel, IN 46032, USA",Carmel,Indiana,39.999211,-86.131222
+"115 Prospect St, Cambridge, MA 02139, USA",Cambridge,Massachusetts,42.368088,-71.102394
+"833 Wayne Ave, Silver Spring, MD 20910, USA",Silver Spring,Maryland,38.99633,-77.02424
+"4100 Easton Gateway Dr, Columbus, OH 43219, USA",Columbus,Ohio,40.057033,-82.909566
+"2750 E Grand River Ave, East Lansing, MI 48823, USA",East Lansing,Michigan,42.728289,-84.452956
+"255 Amherst St, Nashua, NH 03063, USA",Nashua,New Hampshire,42.780133,-71.495848
+"2103 Carlisle Blvd NE, Albuquerque, NM 87110, USA",Albuquerque,New Mexico,35.102863,-106.605055
+"1551 3rd Ave, New York, NY 10128, USA",New York,New York,40.779691,-73.952913
+"15 Wynnewood Rd, Wynnewood, PA 19096, USA",Wynnewood,Pennsylvania,40.002118,-75.275517
+"19800 Belmont Chase Dr, Ashburn, VA 20147, USA",Ashburn,Virginia,39.068447,-77.485045
+"5014 Poplar Ave, Memphis, TN 38117, USA",Memphis,Tennessee,35.113175,-89.894095
+"4301 W William Cannon Dr, Austin, TX 78749, USA",Austin,Texas,30.219649,-97.841645
+"501 Bowman Rd, Little Rock, AR 72211, USA",Little Rock,Arkansas,34.749398,-92.407077
+"19340 Rinaldi St, Northridge, CA 91326, USA",Los Angeles,California,34.273457,-118.554959
+"2085 Diamond Blvd, Concord, CA 94520, USA",Concord,California,37.974068,-122.058173
+"2201 Wilshire Blvd, Santa Monica, CA 90403, USA",Santa Monica,California,34.033276,-118.481333
+"1333 Newell Ave, Walnut Creek, CA 94596, USA",Walnut Creek,California,37.892688,-122.055311
+"399 Post Rd W, Westport, CT 06880, USA",Westport,Connecticut,41.12805,-73.380187
+"3802 Northdale Blvd, Tampa, FL 33624, USA",Tampa,Florida,28.092987,-82.504132
+"1300 Ernest W Barrett Pkwy NW, Kennesaw, GA 30144, USA",Kennesaw,Georgia,33.997827,-84.589787
+"30 W Huron St, Chicago, IL 60654, USA",Chicago,Illinois,41.89502,-87.629069
+"4100 University Ave #260, West Des Moines, IA 50266, USA",West Des Moines,Iowa,41.598522,-93.759709
+"255 Hartford Ave, Bellingham, MA 02019, USA",Bellingham,Massachusetts,42.111448,-71.461571
+"1001 Fleet St, Baltimore, MD 21202, USA",Baltimore,Maryland,39.284036,-76.599414
+"2693 Edmondson Rd, Cincinnati, OH 45209, USA",Cincinnati,Ohio,39.145496,-84.447093
+"990 W Eisenhower Pkwy, Ann Arbor, MI 48103, USA",Ann Arbor,Michigan,42.248415,-83.758192
+"1558 Kings Hwy N, Cherry Hill, NJ 08034, USA",Cherry Hill,New Jersey,39.915882,-75.011425
+"238 Bedford Ave, Brooklyn, NY 11249, USA",,New York,40.716165,-73.959769
+"8710 Six Forks Rd, Raleigh, NC 27615, USA",Raleigh,North Carolina,35.899384,-78.650479
+"2101 Pennsylvania Ave, Philadelphia, PA 19130, USA",Philadelphia,Pennsylvania,39.963452,-75.174467
+"7511 Leesburg Pike, Falls Church, VA 22043, USA",Falls Church,Virginia,38.903442,-77.204482
+"329 Town Pl, Fairview, TX 75069, USA",Fairview,Texas,33.132528,-96.647711
+"5001 183A Toll road, Cedar Park, TX 78613, USA",Cedar Park,Texas,30.533573,-97.818879
+"1250 Jefferson Ave, Redwood City, CA 94062, USA",Redwood City,California,37.482299,-122.231675
+"405 N Pacific Coast Hwy, Redondo Beach, CA 90277, USA",Redondo Beach,California,33.847487,-118.389567
+"2121 Cloverfield Blvd, Santa Monica, CA 90404, USA",Santa Monica,California,34.0221,-118.465442
+"3682 Bel Aire Plaza, Napa, CA 94558, USA",Napa,California,38.32344,-122.306267
+"4800 El Camino Real, Los Altos, CA 94022, USA",Los Altos,California,37.398899,-122.110728
+"55 Welles St, Glastonbury, CT 06033, USA",Glastonbury,Connecticut,41.714972,-72.607061
+"4402 Legendary Dr, Destin, FL 32541, USA",Destin,Florida,30.390274,-86.42029
+"650 Ponce De Leon Ave NE, Atlanta, GA 30308, USA",Atlanta,Georgia,33.775006,-84.365838
+"750 N Martingale Rd, Schaumburg, IL 60173, USA",Schaumburg,Illinois,42.042446,-88.03674
+"7401 W 91st St, Overland Park, KS 66212, USA",Overland Park,Kansas,38.963446,-94.671545
+"808 Massachusetts Ave, Arlington, MA 02476, USA",Arlington,Massachusetts,42.416312,-71.159469
+"6621 Baltimore Ave, Hyattsville, MD 20782, USA",Hyattsville,Maryland,38.96925,-76.936611
+"5805 Deerfield Blvd, Mason, OH 45040, USA",Mason,Ohio,39.307644,-84.316856
+"1575 Selby Ave, St Paul, MN 55104, USA",Saint Paul,Minnesota,44.946911,-93.166079
+"300 Bergen Town Center, Paramus, NJ 07652, USA",Paramus,New Jersey,40.914632,-74.059067
+"575 Boston Post Rd, Port Chester, NY 10573, USA",Port Chester,New York,40.992463,-73.675503
+"3540 Wade Ave, Raleigh, NC 27607, USA",Raleigh,North Carolina,35.802477,-78.686309
+"111 Siena Dr, Upper St Clair, PA 15241, USA",Upper Saint Clair,Pennsylvania,40.346092,-80.058021
+"12090 Jefferson Ave, Newport News, VA 23606, USA",Newport News,Virginia,37.103618,-76.491784
+"Whole Foods, 12601 Hill Country Blvd, Bee Cave, TX 78738, USA",Bee Cave,Texas,30.307618,-97.93775
+"1701 Shoal Creek, Highland Village, TX 75077, USA",Highland Village,Texas,33.073769,-97.085479
+"690 Stanyan St, San Francisco, CA 94117, USA",San Francisco,California,37.769561,-122.452798
+"11666 National Blvd, Los Angeles, CA 90064, USA",Los Angeles,California,34.022847,-118.438364
+"2201 S College Ave, Fort Collins, CO 80525, USA",Fort Collins,Colorado,40.559032,-105.0787
+"201 W Napa St, Sonoma, CA 95476, USA",Sonoma,California,38.291249,-122.462618
+"1531 Froom Ranch Way, San Luis Obispo, CA 93405, USA",San Luis Obispo,California,35.251683,-120.687852
+"90 E Putnam Ave, Greenwich, CT 06830, USA",Greenwich,Connecticut,41.032971,-73.623964
+"1903 S University Dr, Davie, FL 33324, USA",Davie,Florida,26.096528,-80.251898
+"2800 Old Milton Pkwy, Alpharetta, GA 30004, USA",Alpharetta,Georgia,34.069471,-84.27843
+"215 IL-83, Elmhurst, IL 60126, USA",Elmhurst,Illinois,41.893841,-87.960394
+"1423 N Webb Rd, Wichita, KS 67206, USA",Wichita,Kansas,37.70968,-97.227641
+"916 Walnut St, Newton, MA 02461, USA",Newton,Massachusetts,42.330012,-71.206377
+"11355 Woodglen Dr, North Bethesda, MD 20852, USA",North Bethesda,Maryland,39.04307,-77.113138
+"1050 Miamisburg Centerville Rd, Washington Township, OH 45458, USA",,Ohio,39.6269,-84.190054
+"3060 Excelsior Blvd, Minneapolis, MN 55416, USA",Minneapolis,Minnesota,44.94772,-93.322185
+"471 NJ-35, Red Bank, NJ 07701, USA",Red Bank,New Jersey,40.375162,-74.087404
+"100 W 125th St, New York, NY 10027, USA",New York,New York,40.807623,-73.946236
+"70 Merrimon Ave, Asheville, NC 28801, USA",Asheville,North Carolina,35.601896,-82.554627
+"1575 The Fairway, Jenkintown, PA 19046, USA",Jenkintown,Pennsylvania,40.107886,-75.116009
+"143 Maple Ave E, Vienna, VA 22180, USA",Vienna,Virginia,38.902357,-77.262866
+"6741 N MacArthur Blvd, Irving, TX 75039, USA",Irving,Texas,32.901245,-96.96025
+"2118 Abrams Rd, Dallas, TX 75214, USA",Dallas,Texas,32.815824,-96.752273
+"11666 National Blvd, Los Angeles, CA 90064, USA",Los Angeles,California,34.022847,-118.438364
+"270 Palladio Pkwy, Folsom, CA 95630, USA",Folsom,California,38.648858,-121.118066
+"1275 Alpine Ave, Boulder, CO 80304, USA",Boulder,Colorado,40.026003,-105.280847
+"415 Newport Center Dr, Newport Beach, CA 92660, USA",Newport Beach,California,33.616542,-117.873653
+"3111 Mowry Ave, Fremont, CA 94538, USA",Fremont,California,37.554992,-121.98521
+"1686 Boston Post Rd, Milford, CT 06460, USA",Milford,Connecticut,41.248559,-73.024665
+"1400 Glades Rd, Boca Raton, FL 33431, USA",Boca Raton,Florida,26.3658,-80.113715
+"77 West Paces Ferry Rd NW, Atlanta, GA 30305, USA",Atlanta,Georgia,33.840552,-84.381276
+"89 Danada Square W, Wheaton, IL 60189, USA",Wheaton,Illinois,41.83037,-88.101502
+"6621 W 119th St, Overland Park, KS 66209, USA",Overland Park,Kansas,38.911813,-94.660577
+"2151 Mystic Valley Pkwy, Medford, MA 02155, USA",Medford,Massachusetts,42.417009,-71.126643
+"5269 River Rd, Bethesda, MD 20816, USA",Bethesda,Maryland,38.966028,-77.104317
+"6001 N Western Ave, Oklahoma City, OK 73118, USA",Oklahoma City,Oklahoma,35.534181,-97.530527
+"7401 France Ave S, Minneapolis, MN 55435, USA",Minneapolis,Minnesota,44.867753,-93.328294
+"633 Broad St, Newark, NJ 07102, USA",Newark,New Jersey,40.740008,-74.169992
+"10 Columbus Cir, New York, NY 10019, USA",New York,New York,40.76876,-73.983205
+"7221 Waverly Walk Avenue, Charlotte, NC 28277, USA",Charlotte,North Carolina,35.0531,-80.767707
+"750 N Krocks Rd, Allentown, PA 18106, USA",Allentown,Pennsylvania,40.564173,-75.565833
+"11660 Plaza America Dr, Reston, VA 20190, USA",Reston,Virginia,38.951783,-77.349183
+"11700 Preston Rd, Dallas, TX 75230, USA",Dallas,Texas,32.908256,-96.802851
+"11920 Domain Dr, Austin, TX 78758, USA",Austin,Texas,30.406269,-97.720267
+"270 Palladio Pkwy, Folsom, CA 95630, USA",Folsom,California,38.648858,-121.118066
+"20955 Stevens Creek Blvd, Cupertino, CA 95014, USA",Cupertino,California,37.323605,-122.039589
+"303 Marshall Rd, Superior, CO 80027, USA",Superior,Colorado,39.956531,-105.167948
+"6350 W 3rd St, Los Angeles, CA 90036, USA",Los Angeles,California,34.070195,-118.36077
+"621 E Washington St, Petaluma, CA 94952, USA",Petaluma,California,38.241257,-122.634619
+"340 N Main St, West Hartford, CT 06117, USA",West Hartford,Connecticut,41.784645,-72.745367
+"299 SE 3rd Ave, Miami, FL 33132, USA",Miami,Florida,25.771973,-80.189072
+"5001 Peachtree Blvd, Chamblee, GA 30341, USA",Chamblee,Georgia,33.885359,-84.314796
+"1 N Halsted St, Chicago, IL 60661, USA",Chicago,Illinois,41.882382,-87.646886
+"14615 W 119th St, Olathe, KS 66062, USA",Olathe,Kansas,38.911476,-94.756463
+"193 Boston Turnpike, Shrewsbury, MA 01545, USA",Shrewsbury,Massachusetts,42.275888,-71.745705
+"442 Washington St, Wellesley, MA 02482, USA",Wellesley,Massachusetts,42.302622,-71.285998
+"9136 S Yale Ave, Tulsa, OK 74137, USA",Tulsa,Oklahoma,36.030649,-95.923665
+"1001 Plymouth Rd, Minnetonka, MN 55305, USA",Minnetonka,Minnesota,44.974149,-93.445382
+"235 Prospect Ave, West Orange, NJ 07052, USA",West Orange,New Jersey,40.806763,-74.24687
+"270 Greenwich St, New York, NY 10007, USA",New York,New York,40.715536,-74.01203
+"81 S Elliott Rd, Chapel Hill, NC 27514, USA",Chapel Hill,North Carolina,35.934459,-79.02775
+"10576 Perry Hwy, Wexford, PA 15090, USA",Wexford,Pennsylvania,40.612342,-80.054369
+"11173 W Broad St, Glen Allen, VA 23060, USA",Glen Allen,Virginia,37.647782,-77.599738
+"CityLine, 3661 N Plano Rd #2500, Richardson, TX 75082, USA",Richardson,Texas,33.002233,-96.701274
+"255 E Basse Rd #130, San Antonio, TX 78209, USA",San Antonio,Texas,29.495593,-98.481217
